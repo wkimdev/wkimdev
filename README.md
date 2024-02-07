@@ -1,5 +1,15 @@
 ### Hello 👋
+🔭 I’m currently working on (self) remotely
+
+platform
+= Android, Web
+
+skillset
+= kotlin, java, javascript, php, python, AI.. etc
+= Backend(expressjs, springframework, springboot)
+= Frontend(reactjs, vuejs, html, css)
   
+
 <!--
 **wkimdev/wkimdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
