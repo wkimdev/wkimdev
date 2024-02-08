@@ -1,13 +1,14 @@
 ### Hello 👋
-🔭 I’m currently working on (self) remotely
+🔭 I’m currently working on (self) remotely~
 
-platform
+### 🖥️ platform  
 = Android, Web
 
-skillset
-= kotlin, java, javascript, php, python, AI.. etc
-= Backend(expressjs, springframework, springboot)
-= Frontend(reactjs, vuejs, html, css)
+  
+### ⚒️ skillset  
+= kotlin, java, javascript, php, python, AI.. etc  
+= Backend(expressjs, springframework, springboot)  
+= Frontend(reactjs, vuejs, html, css)  
   
 
 <!--
