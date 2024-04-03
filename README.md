@@ -1,15 +1,15 @@
 ### Hello 👋
-🔭 I’m currently working on (self) remotely~
+🔭 I’m currently working on remotely~ 🫠
 
 ### 🖥️ platform  
 = AI, Android, Web
 
   
 ### ⚒️ skillset  
-= PIFu, InceptionV3, gpt-3.5-turbo, Whisper, 
-= python, kotlin, java, javascript, PHP, .. etc
-= Backend(expressjs, Flask, FastAPI, springframework, springboot)  
-= Frontend(reactjs, vuejs, html, css)
+- PIFu, InceptionV3, gpt-3.5-turbo, Whisper, 
+- python, kotlin, java, javascript, PHP, .. etc
+- Backend(expressjs, Flask, FastAPI, springframework, springboot)  
+- Frontend(reactjs, vuejs, html, css)
   
 
 <!--
