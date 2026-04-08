@@ -1,6 +1,4 @@
 ### Hello 👋
-🔭 I’m currently working on remotely~ 🫠
-
 ### 🖥️ platform  
 = AI, Android, Web
 
